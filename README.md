@@ -6,7 +6,8 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 The dataset used in this project is the Credit Card Approval dataset from the [Kaggle]( https://www.kaggle.com/datasets/samuelcortinhas/credit-card-approval-clean-data?resource=download)  and our task is to predict which people in the dataset are successful in applying for a credit card. <br/>
 ### Communication protocols  <br/>
 To effective group collaboration & teamwork we’ve done following: <br/>
--	Defined each role,
+-	Defined roles and outlines for the deliverable
 -	Created direct messages for only team members in Slack.
+
 
 
