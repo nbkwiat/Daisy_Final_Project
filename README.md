@@ -8,6 +8,16 @@ The dataset used in this project is the Credit Card Approval dataset from the [K
 To effective group collaboration & teamwork we’ve done following: <br/>
 -	Defined roles and outlines for the deliverable
 -	Created direct messages for only team members in Slack.
+### Outline of The Project <br/>
+1. Import tables into Postgres and merge tables
+2. Clean the data (drop columns: "income", "zip code")
+3. Connect to database (PostgreSQL)
+4. Convert data into machine readable numbers (get_dummies)
+5. Split columns setting "Approved" column as the target
+6. Test and Train the data
+7. Place groups into Random Forest Classifier
+8. Analyze the results
+ 
 
 
 
