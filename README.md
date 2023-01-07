@@ -7,7 +7,6 @@ The dataset used in this project is the Credit Card Approval dataset from the [K
 ### Communication protocols  <br/>
 To effective group collaboration & teamwork we’ve done following: <br/>
 -	Defined each role,
--	
 -	Created direct messages for only team members in Slack.
 
 
