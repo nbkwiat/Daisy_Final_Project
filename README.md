@@ -15,7 +15,7 @@ The dataset used in this project is the Credit Card Approval dataset from the [K
 7. Place groups into Random Forest Classifier
 8. Analyze the results
 
-### Google Slides Presentation <br/>
+### `Google Slides Presentation` <br/>
 To create and present professional [Daisy Project Presentation]( https://docs.google.com/presentation/d/1k-AXzte4hMXsd_PSLhmwZX5YNouQrMs9ZHwrKWGe6Ts/edit#slide=id.gc6f980f91_0_0)  Daisy_Team used Google Slides. <br/>
 Google Slides is a great program for creating presentations, especially this is extremely useful for team projects as it allows more efficient collaboration. <br/>
 
