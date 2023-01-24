@@ -25,5 +25,3 @@ The results of our analysis can be found at [Credit Card Analysis]( https://publ
 
 
 
-
-
