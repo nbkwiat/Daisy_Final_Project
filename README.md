@@ -19,9 +19,8 @@ The dataset used in this project is the Credit Card Approval dataset from the [K
 To create and present professional [Daisy Project Presentation]( https://docs.google.com/presentation/d/1k-AXzte4hMXsd_PSLhmwZX5YNouQrMs9ZHwrKWGe6Ts/edit#slide=id.gc6f980f91_0_0)  Daisy_Team used Google Slides. <br/>
 Google Slides is a great program for creating presentations, especially this is extremely useful for team projects as it allows more efficient collaboration. <br/>
 
- 
-
-
+### `Tableau Dashboard` <br/>
+The results of our analysis can be found at [Credit Card Analysis]( https://public.tableau.com/app/profile/daniel.kim1516/viz/Book4_16739783111590/CreditCardAnalysis?publish=yes)
 
 
 
